@@ -1,8 +1,9 @@
 # jdk9-jigsaw
 
 Ver la [versión en Español](es/README.md) (See [Spanish version](es/README.md))
-
+<p dir="rtl">
 نسخه فارسی [نسخه فارسی](fa/README.md) (See [Persian version](fa/README.md))
+</p>
 
 Examples of some of the features of Jigsaw released in the Early Access build of JDK9.
 
